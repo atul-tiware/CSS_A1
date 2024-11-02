@@ -1,0 +1,46 @@
+h1 {
+  color: red;
+}
+.head2 {
+  color: rgb(82, 222, 82);
+  font-style: italic;
+}
+.LineThrough {
+  text-decoration-line: line-through;
+}
+.bgcolor {
+  background-color: yellow;
+  font-weight: bolder;
+}
+.italic {
+  font-style: italic;
+  text-decoration-line: underline;
+}
+
+ul {
+  letter-spacing: 5px;
+  color: brown;
+}
+.span2 {
+  background-color: yellow;
+  font-weight: bolder;
+}
+.h3 {
+  color: brown;
+  font-weight: normal;
+  font-size: large;
+  letter-spacing: 0.5px;
+}
+.p1 {
+  font-size: xx-small;
+  color: brown;
+}
+.p2 {
+  font-style: italic;
+  color: brown;
+}
+.link {
+  background-color: yellow;
+  color: brown;
+  text-decoration: none;
+}
